@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235873815668",
+    "project_id": "leetchat-36da1",
+    "storage_bucket": "leetchat-36da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235873815668:android:fc8eb4d784f95f936c9521",
+        "android_client_info": {
+          "package_name": "com.example.leet_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235873815668-gko11uukftk3fhkp06m41fbkimiuiukg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQdGnTKvcxHzw0pYXMnApT_OBPL9vX1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235873815668-gko11uukftk3fhkp06m41fbkimiuiukg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
